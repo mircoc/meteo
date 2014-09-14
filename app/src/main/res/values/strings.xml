@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Meteo</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="action_update">Update</string>
+    <string name="action_info">Information</string>
+    <string name="title_activity_settings">Settings</string>
+    <string name="config_city_choose">Choose city:</string>
+    <string name="config_save_ok">Ok</string>
+    <string name="msg_updating">Updating...</string>
+    <string name="loading_txt">Loading</string>
+
+    <string-array name="cities">
+        <item>Florence</item>
+        <item>Milan</item>
+        <item>Turin</item>
+        <item>Rome</item>
+        <item>Bologne</item>
+    </string-array>
+</resources>

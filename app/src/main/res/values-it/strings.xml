@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Meteo</string>
+    <string name="action_update">Aggiorna</string>
+    <string name="action_settings">Configurazione</string>
+    <string name="action_info">Info</string>
+    <string name="msg_updating">Updating...</string>
+    <string name="loading_txt">Loading</string>
+</resources>
