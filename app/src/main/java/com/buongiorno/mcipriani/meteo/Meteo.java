@@ -79,6 +79,7 @@ public class Meteo extends ActionBarActivity {
         requestUpdate();
     }
 
+    
     public void ChangeCity(String newCity) {
         selectedCity = newCity;
         SavePreferences();
@@ -124,7 +125,7 @@ public class Meteo extends ActionBarActivity {
 
         int resID = getResources().getIdentifier("icon"+winfo.getCode(), "drawable",  getPackageName());
         mIconWeather.setImageResource(resID);
-        Toast.makeText(this, "Using image: "+"icon"+winfo.getCode()+" ("+resID+")", Toast.LENGTH_SHORT).show();
+        //Toast.makeText(this, "Using image: "+"icon"+winfo.getCode()+" ("+resID+")", Toast.LENGTH_SHORT).show();
     }
 
     protected class WeatherInfo {

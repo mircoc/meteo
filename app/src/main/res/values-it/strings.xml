@@ -3,7 +3,18 @@
     <string name="app_name">Meteo</string>
     <string name="action_update">Aggiorna</string>
     <string name="action_settings">Configurazione</string>
-    <string name="action_info">Info</string>
-    <string name="msg_updating">Updating...</string>
-    <string name="loading_txt">Loading</string>
+    <string name="action_info">Informazioni</string>
+    <string name="msg_updating">Aggiornamento...</string>
+    <string name="loading_txt">Caricamento</string>
+    <string name="config_city_choose">Scegli città:</string>
+    <string name="config_save_ok">Salva</string>
+    <string name="title_activity_settings">Impostazioni</string>
+
+    <string-array name="cities">
+        <item>Florence</item>
+        <item>Milan</item>
+        <item>Turin</item>
+        <item>Rome</item>
+        <item>Bologne</item>
+    </string-array>
 </resources>
